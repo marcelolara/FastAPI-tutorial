@@ -1,0 +1,6 @@
+fastapi[standard]==0.122.0
+sqlmodel
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
